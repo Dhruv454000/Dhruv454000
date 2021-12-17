@@ -7,7 +7,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently pursuing a bechelor's in computer engineering in VJTI, Mumbai
+- 👨🏽‍💻 I’m currently pursuing a bechelor's in computer engineering at VJTI, Mumbai
 - 🌱 I’m currently exploring Web dev and Data Structures and Algorithms. 
 - 🤔 My interest lies in  web development and computer vision.
 
