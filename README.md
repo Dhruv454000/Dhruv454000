@@ -9,8 +9,7 @@
 **About Me!**
 
 - 👨🏽‍💻 I’m currently pursuing a bachelor's in computer engineering at VJTI, Mumbai
-- 🌱 I’m currently exploring Web dev and Data Structures and Algorithms. 
-- 🤔 My interest lies in  web development and computer vision.
+- 🤔 My interest lies in  web development and Machine learning.
 
 
 **Languages and Tools:**  
