@@ -9,7 +9,7 @@
 **About Me!**
 
 - 👨🏽‍💻 I’m currently pursuing a bachelor's in computer engineering at VJTI, Mumbai
-- 🤔 My interest lies in  web development and Machine learning.
+- 🤔 Currently exploring Multi-object camera tracking algorithms.
 
 
 **Languages and Tools:**  
