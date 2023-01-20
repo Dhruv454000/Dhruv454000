@@ -9,7 +9,7 @@
 **About Me!**
 
 - 👨🏽‍💻 I’m currently pursuing a bachelor's in computer engineering at VJTI, Mumbai
-- 🤔 Currently exploring Multi-object camera tracking algorithms.
+- 🤔 Currently working with language models like Muril, bert and other NLP methods.
 
 
 **Languages and Tools:**  
